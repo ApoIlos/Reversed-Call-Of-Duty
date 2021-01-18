@@ -8,8 +8,8 @@ Addresses, Patterns(Sigs), Class's will be posted here as well as gudes on how t
 ![Profile views](https://gpvc.arturio.dev/ApoIlos)  
 
 ## Info
-* Addresses(Offsets by some) are pointers in memory that point to something we can use them to call game functions, Or read a piece of text, int, bools.
-* Patterns(Sigs) are a row of bytes mostly used to help update Addresses when there's a game update. We can also scan patterns to remove the need of hard-coded addresses
+* Addresses(Offsets by some) are pointers in memory we can use them to call game functions, Or read a piece of text, int, bools.
+* Patterns(Sigs) are a row of bytes mostly used to help update Addresses when there's a game update, we can also scan patterns to remove the need of hard-coding addresses.
 * Class's store data like health, armour, ammo, stats, server info, clients, jus about anything.
 
 ## Tools
