@@ -1,5 +1,4 @@
 #### Reversing call of duty.
-![Reversing call of duty.](https://securitytoday.com/-/media/SEC/Security-Products/Images/2019/02/reverseengineering.jpg)
 
 I made this repo to help people make/create cheats for call of duty games mostly older ones up to "Cod Ghosts"
 
