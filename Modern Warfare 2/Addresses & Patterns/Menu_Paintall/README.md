@@ -3,7 +3,7 @@
 * Step 2: Press Shit & F12 to grab strings
 * Step 3: Look for "fps: %f\n%.0f, %.0f" With out "". Image > https://prnt.sc/x42b9h
 * Step 4: Then click on the sub on the right(It won't be named Menu_PaintAll). Image > https://prnt.sc/x42dzf
-* Step 5: One you are there rename to sub so you remember what it is. Image > https://prnt.sc/x42j4e
+* Step 5: Once you are there rename the sub so you remember what it is. Image > https://prnt.sc/x42j4e
 * Step 6: You can make a sig using the SigMaker plugin or copy the bytes(See my tut on showing bytes) Image > https://prnt.sc/x42nu7
 * Step 6 Info: Use the sig as a update helper not for hooking.
 
